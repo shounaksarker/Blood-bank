@@ -1,0 +1,11 @@
+.menu-icon{
+    background-color: #C7D8F3 !important;
+    padding: 10px !important;
+    border-radius: 35px !important;
+
+    max-height: 4rem;
+}
+.menu button{
+    border: none;
+    background-color: transparent;
+}

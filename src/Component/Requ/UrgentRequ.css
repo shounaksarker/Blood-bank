@@ -1,0 +1,16 @@
+.urgent-main{
+    max-width: 25rem;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px #a7a7a7;
+}
+
+.urgent-requ .btn-warning{
+    background-color: #C70100 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 20px !important;
+}
+.urgent-requ .p-4{
+    padding-bottom: 5px !important;
+}
